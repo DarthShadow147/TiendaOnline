@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\e_aam\\source\\repos\\OnlineStore\\OnlineStore\\OnlineStore.csproj": {}
+    "C:\\Users\\e_aam\\Documents\\Repositorios\\Ecommerce\\Source\\OnlineStore\\OnlineStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\e_aam\\source\\repos\\OnlineStore\\OnlineStore\\OnlineStore.csproj": {
+    "C:\\Users\\e_aam\\Documents\\Repositorios\\Ecommerce\\Source\\OnlineStore\\OnlineStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\e_aam\\source\\repos\\OnlineStore\\OnlineStore\\OnlineStore.csproj",
+        "projectUniqueName": "C:\\Users\\e_aam\\Documents\\Repositorios\\Ecommerce\\Source\\OnlineStore\\OnlineStore.csproj",
         "projectName": "OnlineStore",
-        "projectPath": "C:\\Users\\e_aam\\source\\repos\\OnlineStore\\OnlineStore\\OnlineStore.csproj",
+        "projectPath": "C:\\Users\\e_aam\\Documents\\Repositorios\\Ecommerce\\Source\\OnlineStore\\OnlineStore.csproj",
         "packagesPath": "C:\\Users\\e_aam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\e_aam\\source\\repos\\OnlineStore\\OnlineStore\\obj\\",
+        "outputPath": "C:\\Users\\e_aam\\Documents\\Repositorios\\Ecommerce\\Source\\OnlineStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\e_aam\\AppData\\Roaming\\NuGet\\NuGet.Config",
